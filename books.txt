@@ -1,0 +1,12 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,180,CheckedOut
+Science,Quantum Physics 101,Albert Einstein,EBook,4.5,CheckedOut
+Fiction,To Kill a Mockingbird,Harper Lee,Printed,281,CheckedOut
+Mystery,The Hound of the Baskervilles,Arthur Conan Doyle,Printed,256,Available
+Mystery,And Then There Were None,Agatha Christie,EBook,1.8,Available
+Science,A Brief History of Time,Stephen Hawking,Printed,212,CheckedOut
+Science,On the Origin of Species,Charles Darwin,Printed,502,Available
+NonFiction,Educated,Tara Westover,EBook,3.2,Available
+NonFiction,Bad Blood: Secrets and Lies in a Silicon Valley Startup,John Carreyrou,Printed,352,Available
+Biography,Steve Jobs,Walter Isaacson,Printed,656,CheckedOut
+Biography,Long Walk to Freedom,Nelson Mandela,EBook,5.4,CheckedOut
+Mystery,The Silence of the Lambs,Thomas Harris,Printed,352,CheckedOut
